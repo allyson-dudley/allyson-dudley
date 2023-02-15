@@ -8,4 +8,4 @@
 
 [![Dave's Stack Overflow](https://stats-dev.quine.sh/Dave/stack-overflow?theme=light)](https://dev.quine.sh)
 
-<img src="https://stats-dev.quine.sh/Dave/web3?theme=light" size="380" />
+<img src="https://stats-dev.quine.sh/Dave/web3?theme=light" width="380" />
