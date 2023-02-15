@@ -10,4 +10,4 @@
 
 <img src="https://stats-dev.quine.sh/Dave/web3?theme=light" width="380" />
 
-<img src="https://stats-dev.quine.sh/Dave/topics-over-time?theme=light" width="760" />
+<img src="https://stats-dev.quine.sh/Dave/topics-over-time?theme=light" width="2000" />
